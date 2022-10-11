@@ -1,0 +1,8 @@
+.cproject
+.devcontainer
+.vscode
+.project
+.settings/
+build/
+sdkconfig
+sdkconfig.old

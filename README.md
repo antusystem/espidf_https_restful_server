@@ -1,4 +1,4 @@
-# HTTPS Restful API Server Example
+# ESP-IDF HTTPS Restful API Server Example
 
 ## Overview
 
@@ -178,4 +178,4 @@ Apache License, Version 2.0, January 2004.
 
 ## Version
 
-`v 1.0.0`
+`v 1.0.1`

@@ -4,7 +4,7 @@
 
 This example mainly introduces how to implement a RESTful API server and HTTPS server on ESP32, with a frontend browser UI.
 
-This example is the union of [sd_card-sdmmc](https://github.com/espressif/esp-idf/tree/release/v4.4/examples/storage/sd_card/sdmmc), [wifi-station](https://github.com/espressif/esp-idf/tree/release/v4.4/examples/wifi/getting_started/station), [https_server-simple](https://github.com/espressif/esp-idf/tree/release/v4.4/examples/protocols/https_server/simple), and [http_server-restful_server](https://github.com/espressif/esp-idf/tree/release/v4.4/examples/protocols/http_server/restful_server). The certificate used is the one in the **https server** example. This documentition is basically a copy of the one in **http server - restful server**.
+This example is the union of [sd_card-sdmmc](https://github.com/espressif/esp-idf/tree/release/v4.4/examples/storage/sd_card/sdmmc), [wifi-station](https://github.com/espressif/esp-idf/tree/release/v4.4/examples/wifi/getting_started/station), [https_server-simple](https://github.com/espressif/esp-idf/tree/release/v4.4/examples/protocols/https_server/simple), and [http_server-restful_server](https://github.com/espressif/esp-idf/tree/release/v4.4/examples/protocols/http_server/restful_server). The certificate used is the one in the **https server** example. This file is basically a copy of the one in **http server - restful server**.
 
 This example designs several APIs to fetch resources as follows:
 
